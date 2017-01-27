@@ -40,7 +40,11 @@
    platform.
 
 10) Ghost- MIT License
+
     Ember.js- MIT License
+
     FreeCodeCamp- BSD 3-Clause License
+
     Serverless- MIT License
+
     Keystonejs- MIT License
