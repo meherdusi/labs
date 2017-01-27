@@ -20,5 +20,27 @@
    However, the reason GPL was used over licenses was likely so that 
    Android could retain some measure of control by placing an obligation to 
    retain a GPL license. This stops derivative works from deviating from 
-   the free software goal.
+   the free software goal. It also forces improvements to be shared.
 
+7) GPL is the best license for a company. It requires all users to 
+   distribute code under the same terms as the original license, providing 
+   a degree of control towards the original company. Android uses GPL as well.
+
+   GPL is also the best for the common good, as it requires contribution 
+   towards the singular goal. The best way to ensure progress is to ban 
+   leeching.
+
+   Apache is best for developers, as it is slightly permissive but 
+   retains patent rights from contributors to users.
+
+9) I'm interested in working on Ghost. Ghost is a blogging platform 
+   intended to be used to run an online publication. Users will likely 
+   be magazines and journalists. I would use the GPL license, as it 
+   requires contribution by users. This is ideal for the progress of the 
+   platform.
+
+10) Ghost- MIT License
+    Ember.js- MIT License
+    FreeCodeCamp- BSD 3-Clause License
+    Serverless- MIT License
+    Keystonejs- MIT License
